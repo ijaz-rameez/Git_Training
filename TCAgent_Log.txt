@@ -1,0 +1,4 @@
+6/24/2020 1:07:47 PM    Clearing log
+
+6/24/2020 1:07:48 PM    Customerid:149999
+
